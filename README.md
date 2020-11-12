@@ -10,10 +10,10 @@ The datasets we worked on were taken from [this link](https://www.kaggle.com/mke
 
 ## Files descriptions
 The repository of this homework consists of two files:
-- 1 `Homework2.ipynb`
+- `Homework2.ipynb`
 > In this Jupyter notebook file there are all the answers to the RQs, with comments, considerations about the approach to the data and results. The entire notebook is already run so the analysis is ready to be read.
 
-- 2 `hw2_functions.py`
+- `hw2_functions.py`
 > This .py file contains all the function that we have used to answer the RQs. There is a division into sections and in each there are the functions adopted for the relative RQ. The choices made in the functions are commented on in order to make the code as clear as possible, justifying its functioning.
 
 **********************
