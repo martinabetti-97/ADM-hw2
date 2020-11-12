@@ -17,7 +17,7 @@ The repository of this homework consists of two files:
 > This .py file contains all the function that we have used to answer the RQs. There is a division into sections and in each there are the functions adopted for the relative RQ. The choices made in the functions are commented on in order to make the code as clear as possible, justifying its functioning.
 
 **********************
-*Homework made by:*
-Martina Betti
-Arsen Yerbol
+*Homework made by:* \
+Martina Betti \
+Arsen Yerbol \
 Tommaso Berritto
